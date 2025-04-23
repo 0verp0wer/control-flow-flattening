@@ -8,7 +8,7 @@
 
 ### ❗ Why I released this code?
 - No one had ever publicly released a control flow obfuscator written in Python, so I thought it might be useful to release one for educational purposes.
-- This control flow obfuscator was originally created for use in my new VM challenge, Cyron, which will be released in a few days. However, after several tests, I realized that integrating it into the VM would require too many registers, leading to a drop in performance.
+- This control flow obfuscator was originally created for use in my new VM challenge, [Cyron](https://github.com/0verp0wer/Cyron). However, after several tests, I realized that integrating it into the VM would require too many registers, leading to a drop in performance.
 
 ### 📫 Contact
 - If you need help contact me on discord: **over_on_top**
